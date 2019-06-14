@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-    xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,7 +46,7 @@
                 <idno type="EDCS"/>
                 <idno type="PHI">140659</idno>
                 <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic1176</idno>
-                <idno type="DOI">10.5072/zenodo.296507</idno>
+                <idno type="DOI">10.5072/zenodo.296509</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.
                     </licence>
@@ -164,7 +163,7 @@
                 <change when="2019-06-14" who="system">Updated Zenodo DOI</change>
                 <change when="2019-06-14" who="system">Updated Zenodo DOI</change>
                 <change when="2019-06-14" who="system">Updated Zenodo DOI</change>
-            </listChange>
+            <change when="2019-06-14" who="system">Updated Zenodo DOI</change></listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
